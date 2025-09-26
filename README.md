@@ -1,6 +1,6 @@
+<!-- Greetings -->
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://readme-typing-svg.demolab.com?font=Baloo+2&duration=1&pause=1000&center=true&vCenter=true&width=600&height=90&size=36&lines=%F0%9F%8D%AE+Hey+there!+%F0%9F%8D%AE" />
     <img
       alt="🍮 Hey there! 🍮"
       src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=40&duration=3000&pause=1500&color=7B5A38&center=true&vCenter=true&multiline=true&width=650&height=120&lines=%F0%9F%8D%AE+Hey+there!+%F0%9F%8D%AE;Welcome+to+my+corner+of+GitHub!"
@@ -10,6 +10,7 @@
 
 ---
 
+<!-- About Me -->
 <div align="center">
   <img
     alt="About Me"
@@ -23,26 +24,37 @@ Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack developm
 
 ---
 
-### 🌐 Let’s Connect
+<!-- Let's Connect -->
+<div align="center">
+  <img
+    alt="Let's Connect"
+    src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=30&duration=1&pause=100000&color=7B5A38&center=true&vCenter=true&repeat=false&width=360&height=60&lines=%F0%9F%8C%90+Let's+Connect"
+  />
+</div>
 
 <div align="center">
+  <a href="#" title="Portfolio (Coming Soon!)">
+    <img
+      src="https://img.shields.io/badge/Portfolio-F8D472?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=F8D472&color=F8D472"
+      alt="Portfolio Coming Soon" />
+  </a>
 
-<a href="#" title="Portfolio (coming soon)">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FCEFB4?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=F8D472&color=7B5A38" alt="Portfolio Coming Soon" />
-</a>
+  <a href="https://www.linkedin.com/in/matt-kerby-perez" target="_blank" title="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-F8D472?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F8D472&color=F8D472"
+      alt="LinkedIn" />
+  </a>
 
-<a href="https://www.linkedin.com/in/matt-kerby-perez" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Matt%20Kerby%20Perez-FCEFB4?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=F8D472&color=7B5A38" alt="LinkedIn: Matt Kerby Perez" />
-</a>
-
-<a href="mailto:mattkerbyy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mattkerbyy%40gmail.com-FCEFB4?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F8D472&color=7B5A38" alt="Email" />
-</a>
-
+  <a href="mailto:mattkerbyy@gmail.com" title="Email me">
+    <img
+      src="https://img.shields.io/badge/Email-F8D472?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=F8D472&color=F8D472"
+      alt="Email" />
+  </a>
 </div>
 
 ---
 
+<!-- Tech Stack -->
 <div align="center">
   <img
     alt="Tech Stack"
@@ -62,6 +74,7 @@ Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack developm
 
 ---
 
+<!-- GitHub Stats -->
 <div align="center">
   <img
     alt="GitHub Stats"
@@ -87,3 +100,5 @@ Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack developm
     </tr>
   </table>
 </div>
+
+---
