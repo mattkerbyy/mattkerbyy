@@ -13,11 +13,7 @@
 <div align="center">
   <img
     alt="About Me"
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' width='188' height='30' role='img' aria-label='About Me'>
-      <rect width='188' height='30' rx='15' fill='%23F8D472'/>
-      <text x='94' y='20' text-anchor='middle' font-size='14' font-family='Verdana,Arial,sans-serif' fill='%237B5A38'>💫 About Me</text>
-    </svg>"
+    src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=30&duration=1&pause=100000&color=7B5A38&center=true&vCenter=true&repeat=false&width=350&height=60&lines=%F0%9F%92%AB+About+Me"
   />
 </div>
 
@@ -50,11 +46,7 @@ Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack developm
 <div align="center">
   <img
     alt="Tech Stack"
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' width='200' height='30' role='img' aria-label='Tech Stack'>
-      <rect width='200' height='30' rx='15' fill='%23F8D472'/>
-      <text x='100' y='20' text-anchor='middle' font-size='14' font-family='Verdana,Arial,sans-serif' fill='%237B5A38'>💻 Tech Stack</text>
-    </svg>"
+    src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=30&duration=1&pause=100000&color=7B5A38&center=true&vCenter=true&repeat=false&width=360&height=60&lines=%F0%9F%92%BB+Tech+Stack"
   />
 </div>
 
@@ -73,11 +65,7 @@ Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack developm
 <div align="center">
   <img
     alt="GitHub Stats"
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' width='208' height='30' role='img' aria-label='GitHub Stats'>
-      <rect width='208' height='30' rx='15' fill='%23F8D472'/>
-      <text x='104' y='20' font-size='14' font-family='Verdana,Arial,sans-serif' text-anchor='middle' fill='%237B5A38'>📊 GitHub Stats</text>
-    </svg>"
+    src="https://readme-typing-svg.demolab.com?font=Baloo+2&size=30&duration=1&pause=100000&color=7B5A38&center=true&vCenter=true&repeat=false&width=420&height=60&lines=%F0%9F%93%8A+GitHub+Stats"
   />
 </div>
 
