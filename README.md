@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack development. Currently building technical expertise while managing my own collectibles business, developing both entrepreneurial and technical skills. Eager to apply my programming knowledge and business acumen to create innovative digital solutions.
+Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack web development. Currently building technical expertise while managing my own collectibles business, developing both entrepreneurial and technical skills. Eager to apply my programming knowledge and business acumen to create innovative digital solutions.
 </p>
 
 ---
