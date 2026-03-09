@@ -91,6 +91,12 @@ Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack web deve
           alt="GitHub Streak"
           height="170" />
       </td>
+      <td align="center" valign="top">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattkerbyy&layout=compact&langs_count=8&title_color=7B5A38&text_color=7B5A38&bg_color=FFF9DE&hide_border=true"
+          alt="Top Languages"
+          height="170" />
+      </td>
     </tr>
   </table>
 </div>
