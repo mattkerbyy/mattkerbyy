@@ -87,13 +87,13 @@ Graduated with a Bachelor of Science in Computer Engineering and a strong passio
     <tr>
       <td align="center" valign="top">
         <img
-          src="https://streak-stats.demolab.com?user=mattkerbyy&hide_border=true&background=FFF9DE&stroke=EAD9B0&ring=E3B564&fire=E3B564&currStreakNum=7B5A38&sideNums=7B5A38&currStreakLabel=7B5A38&sideLabels=7B5A38&dates=7B5A38"
+          src="https://streak-stats.demolab.com?user=mattkerbyy&hide_border=true&background=FFF9DE&stroke=EAD9B0&ring=E3B564&fire=E3B564&currStreakNum=7B5A38&sideNums=7B5A38&currStreakLabel=7B5A38&sideLabels=7B5A38&dates=7B5A38&cache_seconds=21600"
           alt="GitHub Streak"
           height="170" />
       </td>
       <td align="center" valign="top">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattkerbyy&layout=compact&langs_count=8&title_color=7B5A38&text_color=7B5A38&bg_color=FFF9DE&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattkerbyy&layout=compact&langs_count=8&title_color=7B5A38&text_color=7B5A38&bg_color=FFF9DE&hide_border=true&cache_seconds=21600"
           alt="Top Languages"
           height="170" />
       </td>
