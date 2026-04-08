@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-Aspiring Computer Engineer pursuing BSCpE with a passion for full-stack web development. Currently building technical expertise while managing my own collectibles business, developing both entrepreneurial and technical skills. Eager to apply my programming knowledge and business acumen to create innovative digital solutions.
+Graduated with a Bachelor of Science in Computer Engineering and a strong passion for software development. Continuously building my technical expertise while managing my own collectibles business, gaining both entrepreneurial and technical experience. Driven to apply my programming knowledge and business acumen to create innovative digital solutions.
 </p>
 
 ---
